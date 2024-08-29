@@ -1,0 +1,38 @@
+body {
+    text-align: center; 
+    background-image: url("images/backgroundwhite.jpg");
+    background-size: cover;
+}
+header{ 
+    background: black;
+    color: white;
+    padding: 20px 10px;
+
+}
+h1, h2, h6{
+    font-family: "Open+sains", sans-serif;
+    font-weight: 700;
+}
+p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    width: 50%;
+    margin: 10px auto; 
+}
+a{
+    position: relative;
+    left: 325px;
+    padding: 15px;
+    text-decoration: none;
+    border: 2px solid #000000;
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    margin-bottom: 100px ;
+}
+a:hover {
+    color: #000;
+}
+figure {
+    margin-bottom: 10px;
+}
